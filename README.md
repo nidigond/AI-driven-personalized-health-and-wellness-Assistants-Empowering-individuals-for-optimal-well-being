@@ -1,0 +1,2 @@
+# AI-driven-personalized-health-and-wellness-Assistants-Empowering-individuals-for-optimal-well-being
+Our project aims to explore the potential of AI driven personalized health and wellness assistants in empowering individuals to achieve optimal well-being. AI technologies used to develop virtual assistants that provide personalized recommendations and support various aspects of health and wellness such as nutrition,fitness and sleep optimization
